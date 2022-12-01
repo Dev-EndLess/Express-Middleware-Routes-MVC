@@ -1,0 +1,4 @@
+20221201	11:23:51	0d3857e0-764b-4e70-aca8-8b4578480484	/	GET	reqLog.txt
+20221201	11:23:51	57621c75-bea6-40f8-b6c4-b4a027a3569b	/css/style.css	GET	reqLog.txt
+20221201	11:23:56	b83e881c-c429-4968-b88b-9cd5b9727f53	/about.html	GET	reqLog.txt
+20221201	11:23:56	a396af99-f410-4bbe-b31b-23f0adefb82f	/css/style.css	GET	reqLog.txt
