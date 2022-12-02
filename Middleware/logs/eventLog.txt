@@ -1,0 +1,2 @@
+20221202	13:04:11	56536db9-2c25-463c-bdb3-401d3f20f875	GET	undefined	/	reqLog.txt
+20221202	13:04:11	132cbeff-8df8-44f0-815c-dcefe27f18ab	GET	undefined	/css/style.css	reqLog.txt
