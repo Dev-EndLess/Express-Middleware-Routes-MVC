@@ -5,6 +5,14 @@
 
 <p> This project is very similar to the last part in Node.JS repository, but
 a lot of thing happen under the hood, so.. in this way is more easly start a server
+  
+  **Reference**
+  
+  https://nodejs.org/en/
+  
+  https://www.npmjs.com/
+  
+  https://expressjs.com/
 
 <ol>
   <li>Create a minimal express server
