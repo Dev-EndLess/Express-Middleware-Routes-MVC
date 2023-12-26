@@ -1,7 +1,8 @@
 
 # A series on Youtube by Dave Gray on NodeJS/Express
 
-🚀 YouTube Playlist: https://www.youtube.com/watch?v=jivyItmsu18&list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw&index=7
+###  YouTube Playlist ⬇️ 
+#### 🚀 https://www.youtube.com/watch?v=jivyItmsu18&list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw&index=7
 
  # 🚩 Introduction 
 
